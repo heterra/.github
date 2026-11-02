@@ -1,5 +1,3 @@
-<img src="https://heterra.github.io/assets/icon.png" alt="Heterra" width="72">
-
 # Heterra
 
 **Advanced spatial analysis. One lightweight GIS app.**
