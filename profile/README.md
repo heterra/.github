@@ -18,7 +18,7 @@ Heterra 是一款免费、轻量的空间分析软件,用于探索空间异质�
 | Spatial prediction | [Generalized covariate field (GCF)](https://doi.org/10.1080/13658816.2026.2729719)<br>[Geographically optimal similarity (GOS)](https://doi.org/10.1007/s11004-022-10036-8) |
 | Model evaluation | [Degree of spatial interpretability (DSI)](https://doi.org/10.1080/13658816.2026.2614335)<br>[Spatial information explained (SIE)](https://doi.org/10.1016/j.isprsjprs.2026.09.034) |
 
-**[Download Heterra](https://heterra.org/#download)** for Macs with Apple silicon (macOS 13 or later).
+**[Download Heterra](https://heterra.org/#download)** for Mac (Apple silicon, macOS 13 or later) and Windows (Windows 10 version 1809 or later, or Windows 11; 64-bit).
 
 ## Feedback
 
